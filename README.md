@@ -1,7 +1,7 @@
 # Promotional-Website.github.io
 About The Author
 - [x] Nationality: Canadian
--[x] Ethnicity: Latino
+- [x] Ethnicity: Latino
 - [x] Country: Canada
 - [x] Language English and Spanish
 - [x] Birth Place: Bogota, Colombia
